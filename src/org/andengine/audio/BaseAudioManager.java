@@ -9,6 +9,7 @@ import java.util.ArrayList;
  * @author Nicolas Gramlich
  * @since 18:07:02 - 13.06.2010
  */
+ 
 public abstract class BaseAudioManager<T extends IAudioEntity> implements IAudioManager<T> {
 	// ===========================================================
 	// Constants
